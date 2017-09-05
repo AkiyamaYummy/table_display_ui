@@ -11,7 +11,7 @@
 #include <QVector>
 #include <qdebug.h>
 
-#include "src/UiTool/ExQLabel.h"
+#include "ExQLabel.h"
 /*
 
 Temporary version, read all the items at once.
